@@ -1,0 +1,7 @@
+.container {
+    display: flex; /* Menggunakan fleksbox untuk pengaturan pusat */
+    justify-content: center; /* Menggeser elemen ke tengah secara horizontal */
+    align-items: center; /* Menggeser elemen ke tengah secara vertikal */
+    min-height: 100vh; /* Mencakup seluruh tinggi viewport */
+    background-color: #f0f0f0; /* Warna latar belakang halaman */
+}
