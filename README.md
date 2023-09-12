@@ -1,0 +1,2 @@
+# MinoTKJ.github.io
+web
